@@ -1,5 +1,5 @@
 # Compute_Behaviour
-Computation Model of Behavioural Data
+Computational Models of Behavioural Data
 
 
 The drift diffusion process for decision modelling and the reinforcement learning based models are implemented on MATLAB.
